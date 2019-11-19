@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AndroidLab3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidLab4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidLab5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CS370Proj" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Patterns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SuperHero" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dmgz-ncp-candidate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gitexample/app" vcs="Git" />
+  </component>
+</project>
